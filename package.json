@@ -23,7 +23,7 @@
   "dependencies": {
     "dualshock-controller": "^0.6.9",
     "keypress": "^0.2.1",
-    "noble": "^1.6.0",
+    "noble": "git://github.com/jacobrosenthal/noble.git#highsierra",
     "winston": "^2.2.0"
   },
   "engine": "node >= 6.0.0",
